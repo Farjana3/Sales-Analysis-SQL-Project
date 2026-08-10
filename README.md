@@ -99,7 +99,6 @@ This project helped me practice:
 * `ORDER BY`
 * `LIMIT`
 * `CASE WHEN`
-* `CTE`
 * `RANK()`
 * Window Functions
 * Date & Time Functions
